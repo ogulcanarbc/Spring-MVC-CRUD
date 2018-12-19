@@ -10,10 +10,10 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" 
 integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <body>
-	<div class="jumbotron">
+	<div class="jumbotron" align="center">
 	<h2>Personnel System</h2>
 	<button class="btn btn-primary" onclick="window.location.href='showPersonForm'; return false" type="button" role="button">Add Person</button>
-	<div class="container">
+	<div class="container" align="center">
 <table class="table table-striped">
 		<tr>
 			<th>First Name</th>
