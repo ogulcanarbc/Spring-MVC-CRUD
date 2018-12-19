@@ -7,7 +7,7 @@ Tools and technologies used for this application are ;
 * C3p0  5.3.6 Final
 * Servlet API 2.5
 * Java 8
-- Maven 3.6.0
+* Maven 3.6.0
 * Spring Tool Suite  Version: 3.9.6.RELEASE
 * Tomcat v8.0
 * MySQL 8.0.2
