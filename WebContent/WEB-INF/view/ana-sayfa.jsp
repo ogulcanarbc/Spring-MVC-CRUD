@@ -12,7 +12,7 @@ integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh
 <body>
 	<div class="jumbotron">
 	<h2>Personnel System</h2>
-	<button class="btn btn-primary" onclick="window.location.href='showPersonForm'; return false" type="button" role="button">Ekle</button>
+	<button class="btn btn-primary" onclick="window.location.href='showPersonForm'; return false" type="button" role="button">Add Person</button>
 	<div class="container">
 <table class="table table-striped">
 		<tr>

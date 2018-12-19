@@ -37,14 +37,14 @@ integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh
 				
 				<div class="form-group">
 				<div>
-					<button type="submit" class="btn btn-primary">Kaydet</button>
+					<button type="submit" class="btn btn-primary">Save</button>
 				</div>
 			</div>
 		</form:form>
 	</div>
 </div>
 <br>
-				<p> <a href="${pageContext.request.contextPath}/person/list">Öğrenci Listesi'ne Dön</a></p>
+				<p> <a href="${pageContext.request.contextPath}/person/list">Go To Person List</a></p>
 
 </body>
 </html>
